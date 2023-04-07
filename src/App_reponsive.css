@@ -1,0 +1,26 @@
+@media (max-width:888px) {
+   .header-tite{
+    display: block;
+   }
+   .about1{
+    display: block;
+   }
+   .about2{
+    display: block;
+   }
+   .about21{
+    display: none;
+   }
+   .about22{
+    display: block;
+   }
+   .ft{
+    display: block;
+   }
+
+}
+@media (max-width:991.33px) {
+    img.d-inline-block.align-top {
+        display: none;
+    }
+}
